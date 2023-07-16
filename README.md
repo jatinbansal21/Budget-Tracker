@@ -1,4 +1,4 @@
-# Budget-Tracker App-JavaScript
+# Budget-Tracker App
 
 ​ 
 
